@@ -43,7 +43,7 @@ def find_name_in_file(fn_name, person_name):
 
 name_list = ["Harry", "Ron", "Hermione", "Dumbledore", "Voldemort", "Hagrid", "Snape", "James", "Neville", "McGonagall", "Sirius", "Quidditch"]
 bar_list = []
-my_cnt = 04
+my_cnt = 0
 
 hp = 'C:\Users\Jeffrey\Documents\python\HP\HP_5.txt'
 count_file(hp)
